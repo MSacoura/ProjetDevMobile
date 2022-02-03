@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">My Contacts</string>
+
+    <!-- La page d'accueil-->
+    <string name="HomePageTitle">Dites Bonjour!</string>
+    <string name="HomePageNewsContactsSection">Nouveaux contacts</string>
+
+    <!-- La page de Collection -->
+    <string name="ContactsPageTitle">Contacts</string>
+
+    <!-- La page d'ajout d'un membre -->
+    <string name="AddContactPageTitle">Ajout d\'un contact</string>
+    <string name="AddContactPageUploadButton">Charger Image</string>
+    <string name="AddContactPageContactFirstNameInput">@string/ContactFirstName</string>
+    <string name="AddContactPageContactLastNameInput">@string/ContactLastName</string>
+    <string name="AddContactPageContactEmailInput">@string/ContactEmail</string> <!--placeholder-->
+    
+    <string-array name="AddContactPageProfessionInput">
+        <item>Profession : Developpeur</item>
+        <item>Profession : Chef de projet</item>
+        <item>Profession : Agent QA</item>
+        <item>Profession : Business Developer</item>
+    </string-array>
+
+    <string-array name="AddContactPageDomaineInput">
+        <item>Domaine : AMOA</item>
+        <item>Domaine : BI</item>
+        <item>Domaine : IA</item>
+        <item>Domaine : ML</item>
+    </string-array>
+    
+    <string name="AddContactPageConfirmButton">Confirmer</string>
+
+    <!-- La fenetre popup -->
+    <string name="PopupContactFirstName">Prenom</string>
+    <string name="PopupContactLastName">Nom</string>
+
+    <string name="PopupContactEmailTitle">Email</string>
+    <string name="PopupContactEmailSubtitle">Email</string>
+
+    <string name="PopupProfessionTitle">Profession</string>
+    <string name="PopupProfessionSubtitle">Developpeur</string>
+
+    <string name="PopupDomaineTitle">Domaine</string>
+    <string name="PopupDomaineSubtitle">BI</string>
+
+    <!-- Les éléments d'un Contact -->
+    <string name="ContactFirstName">Prenom</string>
+    <string name="ContactLastName">Nom</string>
+    <string name="ContactEmail">Email</string>
+
+</resources>
